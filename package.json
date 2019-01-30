@@ -1,0 +1,23 @@
+{
+  "name": "minesweeper-project",
+  "version": "1.0.0",
+  "description": "Transpile code in a Babel project.",
+  "main": "board.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrispylinski/minesweeper.git"
+  },
+  "keywords": [
+    "Babel",
+    "minesweeper"
+  ],
+  "author": "Chris Pylinski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrispylinski/minesweeper/issues"
+  },
+  "homepage": "https://github.com/chrispylinski/minesweeper#readme"
+}
